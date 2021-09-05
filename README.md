@@ -10,6 +10,8 @@ If any libraries failed to load, type in
 ```pip install #library-name``` to install it locally.
 
 Here is all the equipment you will need complete the exampleusage sequence:
+
 Computer Screen access
 External display connected to the computer
 A FLIR camera with Tripod
+

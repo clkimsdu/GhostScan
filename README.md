@@ -11,7 +11,10 @@ If any libraries failed to load, type in
 
 Here is all the equipment you will need complete the exampleusage sequence:
 
-Computer Screen access
-External display connected to the computer
-A FLIR camera with Tripod
+-Computer Screen access
+
+-External display connected to the computer
+
+-A FlIR camera with tripod
+
 
